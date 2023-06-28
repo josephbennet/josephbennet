@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
+Good morning, and in case I don't see ya, good afternoon, good evening, and good night!
 
 - 🔭 I’m currently working on runtime
 - 🌱 I’m currently learning deno
